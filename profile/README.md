@@ -1,4 +1,4 @@
-# Creative Labs
+![Creative Labs Logo](https://github.com/UCLA-Creative-Labs/.github/blob/main/logo.svg)
 
 [Main Site](https://creativelabsucla.com/)
 
@@ -6,6 +6,8 @@
 
 At Creative Labs, we focus on building projects just for fun. We were founded on the dream
 that with the right group of people, any idea can come to life.
+
+![sun :)](https://github.com/UCLA-Creative-Labs/.github/blob/main/sun.png)
 
 ### Let's talk about membership
 
